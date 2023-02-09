@@ -1,0 +1,38 @@
+body {
+    width: 100%;
+    background-color: rgb(211, 169, 169);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    color: chocolate;
+    font-size: medium;
+}
+h3{
+    color: cadetblue;
+    font-size: small;
+    text-align: right;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+div {
+    float: left;
+    width: 32%;
+    height: 100px;
+    background-color: rgb(154, 58, 77);
+    margin: 1.3px;
+    padding: 3.2px;
+}
+#left{
+    float: left;
+}
+.rigth{
+    float: right;
+}
